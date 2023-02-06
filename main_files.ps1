@@ -8,3 +8,5 @@ Write-Host “Task3”
 =======
 Write-Host “Task3”
 >>>>>>> ec3e21ebedb7f77928b54f6f3f568c27cd4a0219
+
+Write-Host “Task4”
